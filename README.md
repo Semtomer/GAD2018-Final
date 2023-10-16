@@ -17,11 +17,7 @@ The player receives the money needed to spend at the dealer from the zombies he/
 
 There are different types of sounds of the road, grass, and parquet in the game. So the player feels more natural. 
 
-If the player does not die at the end of 5 waves of zombies, he/she survives and wins the game. If he/she dies, he/she loses the game. When the game is over, the players can see the scores they have achieved.
-
-
-
-
+If the player does not die at the end of 5 waves of zombies, he/she survives and wins the game. If he/she dies, he/she loses the game. When the game is over, the players can see the scores they have achieved.    
 
 W/A/S/D --> Move      
 1/2/3/4/5 --> Switch between the Weapons      
@@ -29,3 +25,9 @@ Mouse Left Click --> Fire the weapon
 R --> Reload the weapon      
 Left Shift --> Sprint/Run      
 Space --> Jump    
+
+Game Video      
+https://youtu.be/jl74N3PsJUA
+
+Windows Build        
+https://drive.google.com/file/d/1xAwPqeQd9h3ebWpDAB6eF3cjjL-63c_Z/view?usp=drive_link
